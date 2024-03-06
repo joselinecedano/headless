@@ -31,6 +31,6 @@ While this repository is primarily for personal use, I welcome collaboration, fe
 
 ## Let's Connect
 
-If you're also interested in headless CMS or have any questions about my projects, don't hesitate to reach out to me. You can find me on [GitHub](https://github.com/joselinecedano), [ X ](https://twitter.com/codingwjsy), or [Linkedin](https://linkedincom/in/joseline-cedano).
+If you're also interested in headless CMS or have any questions about my projects, don't hesitate to reach out to me. You can find me on [GitHub](https://github.com/joselinecedano), [ X ](https://twitter.com/codingwjsy), or [Linkedin](https://linkedin.com/in/joseline-cedano).
 
 Thank you for joining me on this exciting journey of exploration and discovery! 🚀
