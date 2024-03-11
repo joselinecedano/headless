@@ -11,7 +11,6 @@ function App() {
       <SiteHeader />
       <Routes>
         <Route path="/"
-          /* The exact prop is used to ensure that the route is only matched if the path is an exact match to the current URL otherwise it will match any route that starts with the path. */
           element= {<Homepage />}
         />
         <Route path="/category/:id"
