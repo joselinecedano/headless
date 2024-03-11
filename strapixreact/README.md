@@ -2,7 +2,7 @@
 
 Welcome to the walkthrough of the Strapi tutorial with React and GraphQL! In this repository, I'll be documenting my learning journey as I follow along with the tutorial, exploring the integration of Strapi, React, and GraphQL to build dynamic web applications.
 
-## Introduction
+## Introduction 
 
 Strapi is an open-source headless CMS that provides a powerful and customizable content management system. By combining Strapi with frontend technologies like React and GraphQL, we can create scalable and flexible web applications.
 
