@@ -21,9 +21,9 @@ My main objectives for this journey include:
 
 ## Project Structure
 
-- **Notes**: This directory will contain my notes, reflections, and summaries of what I've learned during my exploration of headless CMS.
-- **Projects**: Here, I'll be coding and documenting various projects that I build using headless CMS.
-- **Resources**: I'll collect useful resources, tutorials, and articles related to headless CMS in this directory.
+- **Notes**: I will write notes, reflections, and summaries of what I've learned everywhere during my exploration of headless CMS and eventually create a file noting all the steps taken to set everything up.
+- **Projects**: I'll be coding and documenting various projects that I build using headless CMS each of which will be named after framework used. 
+- **Resources**: I'll collect useful resources, tutorials, and articles related to headless CMS.
 
 ## Collaboration
 
